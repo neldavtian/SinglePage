@@ -1,0 +1,13 @@
+body {
+  min-width: 1248px;
+  min-height: 1600px;
+  padding-right: 26px;
+  gap: 32px;
+}
+
+.wrapStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 3px;
+}
